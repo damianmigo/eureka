@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "flameforge-770fb"
-  }
+    "default": "flameforge-770fb",
+    "staging": "aurorasync-14c8c"
+  },
+  "targets": {},
+  "etags": {}
 }
